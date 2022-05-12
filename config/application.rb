@@ -224,7 +224,7 @@ module Redu
       :url => "#{ENV['APPS_PAGE']}"
     }
     config.redu_services[:help_center] = {
-      :url => "#{ENV['HELP_PAGE']}"
+      :url => "#{ENV['FORUM_PAGE']}"
     }
     config.redu_services[:dev] = {
       :url => "#{ENV['DEVS_PAGE']}"
